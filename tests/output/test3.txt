@@ -1,0 +1,355 @@
+Psyduck abilitate 1 Vulpix abilitate 2 -> Rezultat:
+	Vulpix: HP 36 (dodge), abilitate 2 cooldown 7
+	Psyduck: HP 41, abilitate 1 cooldown 4
+Psyduck abilitate 2 Vulpix atac normal -> Rezultat:
+	Vulpix: HP 34 si este stuned, abilitate 2 cooldown 6
+	Psyduck: HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Psyduck atac normal Vulpix nimic -> Rezultat:
+	Vulpix: HP 28, abilitate 2 cooldown 5
+	Psyduck: HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Psyduck atac normal Vulpix abilitate 1 -> Rezultat:
+	Vulpix: HP 22, abilitate 1 cooldown 6, abilitate 2 cooldown 4
+	Psyduck: HP 26 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Psyduck nimic Vulpix atac normal -> Rezultat:
+	Vulpix: HP 22, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Psyduck: HP 19, abilitate 2 cooldown 2
+Psyduck abilitate 1 Vulpix atac normal -> Rezultat:
+	Vulpix: HP 20, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Psyduck: HP 12, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Psyduck atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 14, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Psyduck: HP 5, abilitate 1 cooldown 3
+Psyduck abilitate 2 Vulpix atac normal -> Rezultat:
+	Vulpix: HP 12 si este stuned, abilitate 1 cooldown 2
+	Psyduck: HP -2, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Antrenorul 1 (Vulpix) castiga Arena, invingand pe celalalt jucator.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 37, Attack 12, Defense 4, Special Defence 5
+
+Squirtle abilitate 1 Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 37 (dodge), abilitate 2 cooldown 5
+	Squirtle: HP 68 si este stuned, abilitate 1 cooldown 3
+Squirtle nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 37, abilitate 2 cooldown 4
+	Squirtle: HP 67, abilitate 1 cooldown 2
+Squirtle abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 35 si este stuned, abilitate 2 cooldown 3
+	Squirtle: HP 66, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Pikachu nimic -> Rezultat:
+	Pikachu: HP 35, abilitate 2 cooldown 2
+	Squirtle: HP 66, abilitate 2 cooldown 1
+Squirtle abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP 31, abilitate 2 cooldown 1
+	Squirtle: HP 65, abilitate 1 cooldown 3
+Squirtle atac special Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 31, abilitate 1 cooldown 4
+	Squirtle: HP 59, abilitate 1 cooldown 2
+Squirtle atac special Pikachu atac special -> Rezultat:
+	Pikachu: HP 31, abilitate 1 cooldown 3
+	Squirtle: HP 58, abilitate 1 cooldown 1
+Squirtle atac special Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 31 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Squirtle: HP 54 si este stuned
+Squirtle nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Squirtle: HP 53
+Squirtle abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP 27, abilitate 2 cooldown 3
+	Squirtle: HP 52, abilitate 1 cooldown 3
+Squirtle atac special Pikachu atac special -> Rezultat:
+	Pikachu: HP 27, abilitate 2 cooldown 2
+	Squirtle: HP 51, abilitate 1 cooldown 2
+Squirtle atac special Pikachu atac special -> Rezultat:
+	Pikachu: HP 27, abilitate 2 cooldown 1
+	Squirtle: HP 50, abilitate 1 cooldown 1
+Squirtle atac special Pikachu atac special -> Rezultat:
+	Pikachu: HP 27
+	Squirtle: HP 49
+Squirtle abilitate 2 Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 27 (dodge), abilitate 2 cooldown 5
+	Squirtle: HP 45 si este stuned, abilitate 2 cooldown 2
+Squirtle nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 27 si este stuned, abilitate 2 cooldown 4
+	Squirtle: HP 44, abilitate 2 cooldown 1
+Squirtle atac special Pikachu nimic -> Rezultat:
+	Pikachu: HP 27, abilitate 2 cooldown 3
+	Squirtle: HP 44
+Squirtle abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP 23, abilitate 2 cooldown 2
+	Squirtle: HP 43, abilitate 1 cooldown 3
+Squirtle abilitate 2 Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 21 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Squirtle: HP 37, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Squirtle atac special Pikachu nimic -> Rezultat:
+	Pikachu: HP 21, abilitate 1 cooldown 3
+	Squirtle: HP 37, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Squirtle atac special Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 21 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Squirtle: HP 33 si este stuned
+Squirtle nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 21, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Squirtle: HP 32
+Squirtle abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 19 si este stuned, abilitate 2 cooldown 3
+	Squirtle: HP 31, abilitate 2 cooldown 2
+Squirtle abilitate 1 Pikachu nimic -> Rezultat:
+	Pikachu: HP 15, abilitate 2 cooldown 2
+	Squirtle: HP 31, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Pikachu atac special -> Rezultat:
+	Pikachu: HP 15, abilitate 2 cooldown 1
+	Squirtle: HP 30, abilitate 1 cooldown 2
+Squirtle abilitate 2 Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 13 si este stuned, abilitate 1 cooldown 4
+	Squirtle: HP 24, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Pikachu nimic -> Rezultat:
+	Pikachu: HP 13, abilitate 1 cooldown 3
+	Squirtle: HP 24, abilitate 2 cooldown 1
+Squirtle abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP 9, abilitate 1 cooldown 2
+	Squirtle: HP 23, abilitate 1 cooldown 3
+Squirtle atac special Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 9 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	Squirtle: HP 19 si este stuned, abilitate 1 cooldown 2
+Squirtle nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 9, abilitate 2 cooldown 4
+	Squirtle: HP 18, abilitate 1 cooldown 1
+Squirtle atac special Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 9, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Squirtle: HP 12
+Squirtle abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 7 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Squirtle: HP 11, abilitate 2 cooldown 2
+Squirtle abilitate 1 Pikachu nimic -> Rezultat:
+	Pikachu: HP 3, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Squirtle: HP 11, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Pikachu atac special -> Rezultat:
+	Pikachu: HP 3, abilitate 1 cooldown 1
+	Squirtle: HP 10, abilitate 1 cooldown 2
+Squirtle abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 1 si este stuned
+	Squirtle: HP 9, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Pikachu nimic -> Rezultat:
+	Pikachu: HP 1
+	Squirtle: HP 9, abilitate 2 cooldown 1
+Squirtle abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP -3
+	Squirtle: HP 8, abilitate 1 cooldown 3
+Antrenorul 2 (Squirtle) castiga Arena, invingand pe celalalt jucator.
+Squirtle are acum +1 la toate caracteristicile.
+Atribute Squirtle: HP 73, Special Attack 6, Defense 6, Special Defence 6
+
+Meowth abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 44
+	Meowth: HP 41 (dodge), abilitate 1 cooldown 4
+Meowth atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 3
+	Meowth: HP 36, abilitate 1 cooldown 3
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 2
+	Meowth: HP 36, abilitate 1 cooldown 2
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 1
+	Meowth: HP 36, abilitate 1 cooldown 1
+Meowth atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 44, abilitate 2 cooldown 3
+	Meowth: HP 33 si este stuned
+Meowth nimic Eevee atac special -> Rezultat:
+	Eevee: HP 44, abilitate 2 cooldown 2
+	Meowth: HP 33
+Meowth abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Meowth: HP 33 (dodge), abilitate 2 cooldown 3
+Meowth abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 2
+	Meowth: HP 33 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 1
+	Meowth: HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 38, abilitate 2 cooldown 3
+	Meowth: HP 30 si este stuned, abilitate 1 cooldown 2
+Eevee atac special Meowth nimic -> Rezultat:
+	Eevee: HP 38, abilitate 2 cooldown 2
+	Meowth: HP 30, abilitate 1 cooldown 1
+Meowth atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Meowth: HP 25
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 2
+	Meowth: HP 25
+Meowth abilitate 2 Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 37, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Meowth: HP 25 (dodge), abilitate 2 cooldown 3
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 37, abilitate 2 cooldown 2
+	Meowth: HP 25, abilitate 2 cooldown 2
+Meowth abilitate 1 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Meowth: HP 25 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 32, abilitate 1 cooldown 2
+	Meowth: HP 25, abilitate 1 cooldown 3
+Meowth abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 31, abilitate 1 cooldown 1
+	Meowth: HP 25 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 31
+	Meowth: HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 31
+	Meowth: HP 25, abilitate 2 cooldown 1
+Meowth atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 31, abilitate 1 cooldown 3
+	Meowth: HP 20
+Meowth abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 26, abilitate 1 cooldown 2
+	Meowth: HP 20 (dodge), abilitate 1 cooldown 4
+Meowth atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Meowth: HP 17 si este stuned, abilitate 1 cooldown 3
+Meowth nimic Eevee atac special -> Rezultat:
+	Eevee: HP 26, abilitate 2 cooldown 2
+	Meowth: HP 17, abilitate 1 cooldown 2
+Meowth abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 25, abilitate 2 cooldown 1
+	Meowth: HP 17 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 25
+	Meowth: HP 17, abilitate 2 cooldown 2
+Meowth abilitate 1 Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 20, abilitate 2 cooldown 3
+	Meowth: HP 17 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Meowth atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 20, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Meowth: HP 12, abilitate 1 cooldown 3
+Meowth abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 19, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Meowth: HP 12 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 19, abilitate 1 cooldown 1
+	Meowth: HP 12, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 19
+	Meowth: HP 12, abilitate 2 cooldown 1
+Meowth atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 19, abilitate 1 cooldown 3
+	Meowth: HP 7
+Meowth abilitate 1 Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 14, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Meowth: HP 7 (dodge), abilitate 1 cooldown 4
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 14, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Meowth: HP 7, abilitate 1 cooldown 3
+Meowth abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 13, abilitate 2 cooldown 1
+	Meowth: HP 7 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Meowth atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 13
+	Meowth: HP 7, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Meowth atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 13, abilitate 2 cooldown 3
+	Meowth: HP 4 si este stuned, abilitate 2 cooldown 1
+Meowth nimic Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 13, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Meowth: HP -1
+Antrenorul 1 (Eevee) castiga Arena, invingand pe celalalt jucator.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 50, Special Attack 8, Defense 6, Special Defence 6
+
+Squirtle abilitate 1 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 46, abilitate 1 cooldown 3
+	Squirtle: HP 68, abilitate 1 cooldown 3
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 44 si este stuned, abilitate 1 cooldown 2
+	Squirtle: HP 66, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Squirtle atac special Eevee nimic -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 1
+	Squirtle: HP 66, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 44, abilitate 2 cooldown 3
+	Squirtle: HP 63 si este stuned
+Squirtle nimic Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Squirtle: HP 58
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 42 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Squirtle: HP 56, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 1
+	Squirtle: HP 56, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 38, abilitate 2 cooldown 3
+	Squirtle: HP 53 si este stuned, abilitate 1 cooldown 2
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 38, abilitate 2 cooldown 2
+	Squirtle: HP 51, abilitate 1 cooldown 1
+Squirtle atac special Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Squirtle: HP 46
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 38, abilitate 1 cooldown 2
+	Squirtle: HP 44
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 36 si este stuned, abilitate 1 cooldown 1
+	Squirtle: HP 42, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 32
+	Squirtle: HP 42, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 32, abilitate 2 cooldown 3
+	Squirtle: HP 39 si este stuned, abilitate 1 cooldown 2
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 32, abilitate 2 cooldown 2
+	Squirtle: HP 37, abilitate 1 cooldown 1
+Squirtle abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 30 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Squirtle: HP 32, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 26, abilitate 1 cooldown 2
+	Squirtle: HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Squirtle: HP 29 si este stuned, abilitate 1 cooldown 2
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 26, abilitate 2 cooldown 2
+	Squirtle: HP 27, abilitate 1 cooldown 1
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 24 si este stuned, abilitate 2 cooldown 1
+	Squirtle: HP 25, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 20
+	Squirtle: HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 20
+	Squirtle: HP 23, abilitate 1 cooldown 2
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 20, abilitate 2 cooldown 3
+	Squirtle: HP 20 si este stuned, abilitate 1 cooldown 1
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 20, abilitate 2 cooldown 2
+	Squirtle: HP 18
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 20, abilitate 2 cooldown 1
+	Squirtle: HP 16
+Squirtle abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 18 si este stuned, abilitate 1 cooldown 3
+	Squirtle: HP 11, abilitate 2 cooldown 2
+Squirtle atac special Eevee nimic -> Rezultat:
+	Eevee: HP 18, abilitate 1 cooldown 2
+	Squirtle: HP 11, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Squirtle: HP 8 si este stuned
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 18, abilitate 2 cooldown 2
+	Squirtle: HP 6
+Squirtle atac special Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 18, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Squirtle: HP 1
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 16 si este stuned, abilitate 1 cooldown 2
+	Squirtle: HP -1, abilitate 2 cooldown 2
+Antrenorul 1 (Eevee) castiga Arena, invingand pe celalalt jucator.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 51, Special Attack 9, Defense 7, Special Defence 7
+

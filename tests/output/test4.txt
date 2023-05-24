@@ -1,0 +1,346 @@
+Neutrel1 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 38
+	Neutrel1: HP -2
+Antrenorul 1 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 39, Attack 14, Defense 4, Special Defence 5
+
+Neutrel1 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 54, abilitate 2 cooldown 3
+	Neutrel1: HP 5
+Neutrel1 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 54, abilitate 2 cooldown 2
+	Neutrel1: HP -4
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 55, Special Attack 11, Defense 4, Special Defence 2
+
+Neutrel1 atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 36, abilitate 1 cooldown 4
+	Neutrel1: HP 6 si este stuned
+Neutrel1 nimic Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Neutrel1: HP 3 si este stuned
+Neutrel1 nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Neutrel1: HP -2
+Antrenorul 1 (Jigglypuff) castiga Lupta.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 37, Attack 7, Defense 5, Special Defence 9
+
+Neutrel1 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 38
+	Neutrel1: HP -2
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 39, Attack 14, Defense 4, Special Defence 5
+
+Neutrel1 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 54, abilitate 1 cooldown 4
+	Neutrel1: HP 4
+Neutrel1 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 54, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Neutrel1: HP -1
+Antrenorul 2 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 55, Special Attack 11, Defense 4, Special Defence 2
+
+Neutrel1 atac normal Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 36, abilitate 2 cooldown 4
+	Neutrel1: HP 7 si este stuned
+Neutrel1 nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 36, abilitate 2 cooldown 3
+	Neutrel1: HP 2
+Neutrel1 atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 36, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel1: HP -2 si este stuned
+Antrenorul 2 (Jigglypuff) castiga Lupta.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 37, Attack 7, Defense 5, Special Defence 9
+
+Neutrel1 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 39
+	Neutrel1: HP -3
+Antrenorul 1 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 40, Attack 15, Defense 5, Special Defence 6
+
+Neutrel1 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 55, abilitate 2 cooldown 3
+	Neutrel1: HP 5
+Neutrel1 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 55, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel1: HP -1
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 56, Special Attack 12, Defense 5, Special Defence 3
+
+Neutrel1 atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 37
+	Neutrel1: HP 4
+Neutrel1 atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 37, abilitate 1 cooldown 4
+	Neutrel1: HP 0 si este stuned
+Antrenorul 1 (Jigglypuff) castiga Lupta.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 38, Attack 8, Defense 6, Special Defence 10
+
+Neutrel1 atac normal Vulpix abilitate 2 -> Rezultat:
+	Vulpix: HP 39 (dodge), abilitate 2 cooldown 7
+	Neutrel1: HP 8
+Neutrel1 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 39, abilitate 2 cooldown 6
+	Neutrel1: HP -5
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 40, Attack 15, Defense 5, Special Defence 6
+
+Neutrel1 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 55, abilitate 1 cooldown 4
+	Neutrel1: HP 4
+Neutrel1 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 55, abilitate 1 cooldown 3
+	Neutrel1: HP -6
+Antrenorul 2 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 56, Special Attack 12, Defense 5, Special Defence 3
+
+Neutrel1 atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 37, abilitate 1 cooldown 4
+	Neutrel1: HP 6 si este stuned
+Neutrel1 nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 37, abilitate 1 cooldown 3
+	Neutrel1: HP 0
+Antrenorul 2 (Jigglypuff) castiga Lupta.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 38, Attack 8, Defense 6, Special Defence 10
+
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 40
+	Neutrel2: HP 6
+Neutrel2 atac normal Vulpix abilitate 1 -> Rezultat:
+	Vulpix: HP 40, abilitate 1 cooldown 6
+	Neutrel2: HP -2 si este stuned
+Antrenorul 1 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 41, Attack 16, Defense 6, Special Defence 7
+
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 56
+	Neutrel2: HP 9
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 56
+	Neutrel2: HP -2
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 57, Special Attack 13, Defense 6, Special Defence 4
+
+Neutrel2 atac normal Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 38, abilitate 2 cooldown 4
+	Neutrel2: HP 17 si este stuned
+Neutrel2 nimic Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 38, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Neutrel2: HP 13 si este stuned
+Neutrel2 nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Neutrel2: HP 6
+Neutrel2 atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Neutrel2: HP -1
+Antrenorul 1 (Jigglypuff) castiga Lupta.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 39, Attack 9, Defense 7, Special Defence 11
+
+Neutrel2 atac normal Vulpix abilitate 1 -> Rezultat:
+	Vulpix: HP 40, abilitate 1 cooldown 6
+	Neutrel2: HP 12 si este stuned
+Neutrel2 nimic Vulpix abilitate 2 -> Rezultat:
+	Vulpix: HP 40 (dodge), abilitate 1 cooldown 5, abilitate 2 cooldown 7
+	Neutrel2: HP 10
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 40, abilitate 1 cooldown 4, abilitate 2 cooldown 6
+	Neutrel2: HP -4
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 41, Attack 16, Defense 6, Special Defence 7
+
+Neutrel2 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 4
+	Neutrel2: HP 14
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 3
+	Neutrel2: HP 3
+Neutrel2 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Neutrel2: HP -2
+Antrenorul 2 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 57, Special Attack 13, Defense 6, Special Defence 4
+
+Neutrel2 atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 38
+	Neutrel2: HP 13
+Neutrel2 atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 38, abilitate 1 cooldown 4
+	Neutrel2: HP 9 si este stuned
+Neutrel2 nimic Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 38, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Neutrel2: HP 6 si este stuned
+Neutrel2 nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Neutrel2: HP -1
+Antrenorul 2 (Jigglypuff) castiga Lupta.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 39, Attack 9, Defense 7, Special Defence 11
+
+Vulpix atac normal Vulpix abilitate 2 -> Rezultat:
+	Vulpix: HP 41 (dodge), abilitate 2 cooldown 7
+	Vulpix: HP 39
+Vulpix atac normal Vulpix abilitate 1 -> Rezultat:
+	Vulpix: HP 31, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+	Vulpix: HP 31 si este stuned
+Vulpix nimic Vulpix atac normal -> Rezultat:
+	Vulpix: HP 31, abilitate 1 cooldown 5, abilitate 2 cooldown 5
+	Vulpix: HP 21
+Vulpix abilitate 2 Vulpix atac normal -> Rezultat:
+	Vulpix: HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Vulpix: HP 21 (dodge), abilitate 2 cooldown 7
+Vulpix abilitate 1 Vulpix atac normal -> Rezultat:
+	Vulpix: HP 21 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Vulpix: HP 11, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+Vulpix atac normal Vulpix nimic -> Rezultat:
+	Vulpix: HP 11, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Vulpix: HP 11, abilitate 1 cooldown 5, abilitate 2 cooldown 5
+Vulpix atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 1, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Vulpix: HP 1, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Vulpix atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP -9
+	Vulpix: HP -9, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Cei doi antrenori au facut egalitate.
+Atribute Vulpix: HP 41, Attack 16, Defense 6, Special Defence 7
+
+Atribute Vulpix: HP 41, Attack 16, Defense 6, Special Defence 7
+
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 48
+	Bulbasaur: HP 48
+Bulbasaur abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 43
+	Bulbasaur: HP 39, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 34
+	Bulbasaur: HP 30, abilitate 2 cooldown 2
+Bulbasaur atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 25, abilitate 2 cooldown 3
+	Bulbasaur: HP 25, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 16, abilitate 2 cooldown 2
+	Bulbasaur: HP 16
+Bulbasaur abilitate 2 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 11, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Bulbasaur: HP 10, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 2, abilitate 1 cooldown 3
+	Bulbasaur: HP 1, abilitate 2 cooldown 2
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP -7, abilitate 1 cooldown 2
+	Bulbasaur: HP -8, abilitate 2 cooldown 1
+Cei doi antrenori au facut egalitate.
+Atribute Bulbasaur: HP 57, Special Attack 13, Defense 6, Special Defence 4
+
+Atribute Bulbasaur: HP 57, Special Attack 13, Defense 6, Special Defence 4
+
+Jigglypuff abilitate 1 Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 35 si este stuned
+	Jigglypuff: HP 37, abilitate 1 cooldown 4
+Jigglypuff abilitate 2 Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 32 si este stuned
+	Jigglypuff: HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Jigglypuff atac normal Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 30
+	Jigglypuff: HP 37, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Jigglypuff atac normal Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 28, abilitate 2 cooldown 4
+	Jigglypuff: HP 34 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Jigglypuff nimic Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 28, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Jigglypuff: HP 30 si este stuned, abilitate 2 cooldown 1
+Jigglypuff nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 28, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Jigglypuff: HP 28
+Jigglypuff atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 26, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Jigglypuff: HP 26
+Jigglypuff atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 24, abilitate 1 cooldown 1
+	Jigglypuff: HP 24
+Jigglypuff abilitate 2 Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 21 si este stuned, abilitate 2 cooldown 4
+	Jigglypuff: HP 21 si este stuned, abilitate 2 cooldown 4
+Jigglypuff nimic Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 21, abilitate 2 cooldown 3
+	Jigglypuff: HP 21, abilitate 2 cooldown 3
+Jigglypuff abilitate 1 Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 17 si este stuned, abilitate 2 cooldown 2
+	Jigglypuff: HP 19, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Jigglypuff atac normal Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 15, abilitate 2 cooldown 1
+	Jigglypuff: HP 19, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 13, abilitate 1 cooldown 4
+	Jigglypuff: HP 15 si este stuned, abilitate 1 cooldown 2
+Jigglypuff nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 13, abilitate 1 cooldown 3
+	Jigglypuff: HP 13, abilitate 1 cooldown 1
+Jigglypuff atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 11, abilitate 1 cooldown 2
+	Jigglypuff: HP 11
+Jigglypuff abilitate 2 Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 8 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Jigglypuff: HP 8 si este stuned, abilitate 2 cooldown 4
+Jigglypuff nimic Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 8, abilitate 2 cooldown 3
+	Jigglypuff: HP 8, abilitate 2 cooldown 3
+Jigglypuff abilitate 1 Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 4 si este stuned, abilitate 2 cooldown 2
+	Jigglypuff: HP 6, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Jigglypuff atac normal Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 2, abilitate 2 cooldown 1
+	Jigglypuff: HP 6, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Jigglypuff atac normal Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 0, abilitate 1 cooldown 4
+	Jigglypuff: HP 2 si este stuned, abilitate 1 cooldown 2
+Antrenorul 2 (Jigglypuff) castiga Arena, invingand pe celalalt jucator.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 40, Attack 10, Defense 8, Special Defence 12
+
+Bulbasaur abilitate 1 Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 51, abilitate 2 cooldown 3
+	Bulbasaur: HP 52, abilitate 1 cooldown 4
+Bulbasaur atac special Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 42, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Bulbasaur: HP 46, abilitate 1 cooldown 3
+Bulbasaur abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Bulbasaur: HP 37, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 28, abilitate 1 cooldown 2
+	Bulbasaur: HP 28, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 19, abilitate 1 cooldown 1
+	Bulbasaur: HP 19, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 10
+	Bulbasaur: HP 10
+Bulbasaur abilitate 1 Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 4, abilitate 2 cooldown 3
+	Bulbasaur: HP 5, abilitate 1 cooldown 4
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP -5, abilitate 2 cooldown 2
+	Bulbasaur: HP -4, abilitate 1 cooldown 3
+Cei doi antrenori au facut egalitate.
+Atribute Bulbasaur: HP 57, Special Attack 13, Defense 6, Special Defence 4
+
+Atribute Bulbasaur: HP 57, Special Attack 13, Defense 6, Special Defence 4
+

@@ -1,0 +1,172 @@
+Meowth atac normal Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 41, abilitate 1 cooldown 4
+	Meowth: HP 35
+Meowth abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 40, abilitate 1 cooldown 3
+	Meowth: HP 35 (dodge), abilitate 2 cooldown 3
+Meowth abilitate 1 Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 40 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Meowth: HP 35 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Meowth atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Meowth: HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Meowth atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 28, abilitate 2 cooldown 3
+	Meowth: HP 33, abilitate 1 cooldown 2
+Meowth abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 27, abilitate 2 cooldown 2
+	Meowth: HP 33 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Meowth atac normal Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 21, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Meowth: HP 27, abilitate 2 cooldown 2
+Meowth atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 15, abilitate 1 cooldown 3
+	Meowth: HP 26, abilitate 2 cooldown 1
+Meowth atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 9, abilitate 1 cooldown 2
+	Meowth: HP 25
+Meowth abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP 4, abilitate 1 cooldown 1
+	Meowth: HP 25 (dodge), abilitate 1 cooldown 4
+Meowth atac normal Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 4 (dodge), abilitate 2 cooldown 5
+	Meowth: HP 21 si este stuned, abilitate 1 cooldown 3
+Meowth nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 4, abilitate 2 cooldown 4
+	Meowth: HP 20, abilitate 1 cooldown 2
+Meowth atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP -2, abilitate 2 cooldown 3
+	Meowth: HP 19, abilitate 1 cooldown 1
+Antrenorul 2 (Meowth) castiga Arena, invingand pe celalalt jucator.
+Meowth are acum +1 la toate caracteristicile.
+Atribute Meowth: HP 42, Attack 10, Defense 6, Special Defence 6
+
+Psyduck abilitate 1 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 37, abilitate 1 cooldown 3
+	Psyduck: HP 50, abilitate 1 cooldown 4
+Psyduck atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Psyduck: HP 47 si este stuned, abilitate 1 cooldown 3
+Psyduck nimic Eevee atac special -> Rezultat:
+	Eevee: HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Psyduck: HP 43, abilitate 1 cooldown 2
+Psyduck atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 31, abilitate 2 cooldown 1
+	Psyduck: HP 39, abilitate 1 cooldown 1
+Psyduck atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 28, abilitate 1 cooldown 3
+	Psyduck: HP 34
+Psyduck abilitate 1 Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 26, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Psyduck: HP 31 si este stuned, abilitate 1 cooldown 4
+Psyduck nimic Eevee atac special -> Rezultat:
+	Eevee: HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Psyduck: HP 27, abilitate 1 cooldown 3
+Psyduck abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 24 si este stuned, abilitate 2 cooldown 1
+	Psyduck: HP 23, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Psyduck atac normal Eevee nimic -> Rezultat:
+	Eevee: HP 21
+	Psyduck: HP 23, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Psyduck atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 18, abilitate 1 cooldown 3
+	Psyduck: HP 18, abilitate 2 cooldown 3
+Psyduck atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 15, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Psyduck: HP 15 si este stuned, abilitate 2 cooldown 2
+Psyduck nimic Eevee atac special -> Rezultat:
+	Eevee: HP 15, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Psyduck: HP 11, abilitate 2 cooldown 1
+Psyduck abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 13, abilitate 2 cooldown 1
+	Psyduck: HP 7, abilitate 1 cooldown 4
+Psyduck abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 11 si este stuned, abilitate 1 cooldown 3
+	Psyduck: HP 2, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Psyduck atac normal Eevee nimic -> Rezultat:
+	Eevee: HP 8, abilitate 1 cooldown 2
+	Psyduck: HP 2, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Psyduck atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 5, abilitate 1 cooldown 1
+	Psyduck: HP -2, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Antrenorul 1 (Eevee) castiga Arena, invingand pe celalalt jucator.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 40, Special Attack 8, Defense 6, Special Defence 9
+
+Bulbasaur atac special Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 48, abilitate 1 cooldown 4
+	Bulbasaur: HP 48 si este stuned
+Bulbasaur nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 48, abilitate 1 cooldown 3
+	Bulbasaur: HP 44
+Bulbasaur atac special Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	Bulbasaur: HP 37
+Bulbasaur abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 39, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	Bulbasaur: HP 33, abilitate 2 cooldown 3
+Bulbasaur abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 33, abilitate 2 cooldown 4
+	Bulbasaur: HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Bulbasaur atac special Charmander atac normal -> Rezultat:
+	Charmander: HP 29, abilitate 2 cooldown 3
+	Bulbasaur: HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Bulbasaur atac special Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 25, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Bulbasaur: HP 21 si este stuned, abilitate 1 cooldown 2
+Bulbasaur nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Bulbasaur: HP 17, abilitate 1 cooldown 1
+Bulbasaur atac special Charmander atac normal -> Rezultat:
+	Charmander: HP 21, abilitate 1 cooldown 2
+	Bulbasaur: HP 13
+Bulbasaur abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 15, abilitate 1 cooldown 1
+	Bulbasaur: HP 9, abilitate 1 cooldown 4
+Bulbasaur atac special Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 11, abilitate 2 cooldown 6
+	Bulbasaur: HP 2, abilitate 1 cooldown 3
+Bulbasaur abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 6, abilitate 2 cooldown 5
+	Bulbasaur: HP -2, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Antrenorul 1 (Charmander) castiga Arena, invingand pe celalalt jucator.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 53, Attack 10, Defense 6, Special Defence 5
+
+Psyduck abilitate 1 Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 51, abilitate 2 cooldown 6
+	Psyduck: HP 48, abilitate 1 cooldown 4
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 49, abilitate 2 cooldown 5
+	Psyduck: HP 41, abilitate 1 cooldown 3
+Psyduck abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 47 si este stuned, abilitate 2 cooldown 4
+	Psyduck: HP 34, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Psyduck atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 45, abilitate 2 cooldown 3
+	Psyduck: HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Psyduck atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Psyduck: HP 30 si este stuned, abilitate 2 cooldown 3
+Psyduck nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Psyduck: HP 23, abilitate 2 cooldown 2
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 41, abilitate 1 cooldown 2
+	Psyduck: HP 16, abilitate 2 cooldown 1
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 39, abilitate 1 cooldown 1
+	Psyduck: HP 9
+Psyduck abilitate 2 Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 37 si este stuned, abilitate 2 cooldown 6
+	Psyduck: HP 2, abilitate 2 cooldown 5
+Psyduck atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 35, abilitate 2 cooldown 5
+	Psyduck: HP 2, abilitate 2 cooldown 4
+Psyduck atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 33, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Psyduck: HP -2 si este stuned, abilitate 2 cooldown 3
+Antrenorul 1 (Charmander) castiga Arena, invingand pe celalalt jucator.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 54, Attack 11, Defense 7, Special Defence 6
+

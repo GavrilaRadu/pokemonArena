@@ -1,0 +1,880 @@
+Charmander atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 43
+	Charmander: HP 46, abilitate 2 cooldown 6
+Charmander abilitate 2 Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 39 si este stuned, abilitate 2 cooldown 6
+	Charmander: HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 35, abilitate 2 cooldown 5
+	Charmander: HP 39, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 31, abilitate 2 cooldown 4
+	Charmander: HP 35, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 27, abilitate 2 cooldown 3
+	Charmander: HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 23, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Charmander: HP 27 si este stuned, abilitate 2 cooldown 1
+Charmander nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 23, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Charmander: HP 23
+Charmander abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 16, abilitate 1 cooldown 2
+	Charmander: HP 19, abilitate 2 cooldown 6
+Charmander abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 12 si este stuned, abilitate 1 cooldown 1
+	Charmander: HP 15, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 8
+	Charmander: HP 15, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 4
+	Charmander: HP 11, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 0
+	Charmander: HP 7, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Antrenorul 2 (Charmander) castiga Arena, invingand pe celalalt jucator.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 51, Attack 11, Defense 7, Special Defence 5
+
+Bulbasaur abilitate 2 Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 49, abilitate 2 cooldown 3
+	Bulbasaur: HP 49, abilitate 2 cooldown 3
+Bulbasaur abilitate 1 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Bulbasaur: HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 40, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Bulbasaur: HP 40, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 37, abilitate 1 cooldown 2
+	Bulbasaur: HP 37, abilitate 1 cooldown 2
+Bulbasaur abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 32, abilitate 1 cooldown 1
+	Bulbasaur: HP 34, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 29
+	Bulbasaur: HP 31, abilitate 2 cooldown 2
+Bulbasaur abilitate 1 Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 23, abilitate 2 cooldown 3
+	Bulbasaur: HP 26, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 20, abilitate 2 cooldown 2
+	Bulbasaur: HP 23, abilitate 1 cooldown 3
+Bulbasaur atac special Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 17, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Bulbasaur: HP 17, abilitate 1 cooldown 2
+Bulbasaur atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 12, abilitate 1 cooldown 3
+	Bulbasaur: HP 14, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 9, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Bulbasaur: HP 9, abilitate 2 cooldown 2
+Bulbasaur abilitate 1 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 3, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Bulbasaur: HP 6, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 0, abilitate 2 cooldown 1
+	Bulbasaur: HP 3, abilitate 1 cooldown 3
+Antrenorul 2 (Bulbasaur) castiga Arena, invingand pe celalalt jucator.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 55, Special Attack 8, Defense 4, Special Defence 5
+
+Snorlax abilitate 2 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 64 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 64 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60 si este stuned, abilitate 2 cooldown 4
+	Snorlax: HP 64, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 60, abilitate 2 cooldown 3
+	Snorlax: HP 64, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 2 cooldown 2
+	Snorlax: HP 64, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	Snorlax: HP 60 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 4
+	Snorlax: HP 60, abilitate 1 cooldown 1
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 3
+	Snorlax: HP 60 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 2
+	Snorlax: HP 60, abilitate 2 cooldown 4
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56 si este stuned, abilitate 1 cooldown 1
+	Snorlax: HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 56
+	Snorlax: HP 60, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56
+	Snorlax: HP 60, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 56 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 60, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 60 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 60, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 60, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 1
+	Snorlax: HP 60, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52
+	Snorlax: HP 60, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 52 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 60 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 56 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 56, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 56, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 48, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 56, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48, abilitate 1 cooldown 1
+	Snorlax: HP 56, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48
+	Snorlax: HP 56, abilitate 1 cooldown 2
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 48, abilitate 1 cooldown 5
+	Snorlax: HP 52 si este stuned, abilitate 1 cooldown 1
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 48 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 52
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 44 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 52, abilitate 1 cooldown 5
+Snorlax abilitate 2 Snorlax nimic -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 52 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 2 cooldown 1
+	Snorlax: HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 5
+	Snorlax: HP 48 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 44 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 48, abilitate 2 cooldown 1
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 48, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 48, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 48, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 2 cooldown 1
+	Snorlax: HP 48 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40
+	Snorlax: HP 48, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40
+	Snorlax: HP 48, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 40 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 48, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 44 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 44, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 44 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 1
+	Snorlax: HP 44, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40
+	Snorlax: HP 44, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40
+	Snorlax: HP 44, abilitate 2 cooldown 1
+Snorlax abilitate 1 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 40 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 44, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 2 cooldown 4
+	Snorlax: HP 44, abilitate 1 cooldown 4
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 2 cooldown 3
+	Snorlax: HP 44 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 2 cooldown 2
+	Snorlax: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 2 cooldown 1
+	Snorlax: HP 44, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40
+	Snorlax: HP 44, abilitate 2 cooldown 2
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36 si este stuned
+	Snorlax: HP 44, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 36
+	Snorlax: HP 44, abilitate 1 cooldown 4
+Snorlax abilitate 2 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 36 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 44 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 2 cooldown 4
+	Snorlax: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Snorlax: HP 40 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Snorlax: HP 40, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Snorlax: HP 40, abilitate 2 cooldown 1
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32 si este stuned, abilitate 1 cooldown 2
+	Snorlax: HP 40, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 32, abilitate 1 cooldown 1
+	Snorlax: HP 40, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32
+	Snorlax: HP 40, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32
+	Snorlax: HP 40, abilitate 1 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32
+	Snorlax: HP 40, abilitate 1 cooldown 1
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 32 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 40
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 32, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 40 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 40, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 40, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 40, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 28, abilitate 1 cooldown 1
+	Snorlax: HP 40, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 28 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 40, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 2 cooldown 4
+	Snorlax: HP 40, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 2 cooldown 3
+	Snorlax: HP 40 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 2 cooldown 2
+	Snorlax: HP 40, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 28, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	Snorlax: HP 36 si este stuned, abilitate 2 cooldown 3
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 1 cooldown 4
+	Snorlax: HP 36, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 28 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Snorlax: HP 36, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Snorlax: HP 36
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 24 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Snorlax: HP 36, abilitate 1 cooldown 5
+Snorlax abilitate 2 Snorlax nimic -> Rezultat:
+	Snorlax: HP 24, abilitate 2 cooldown 2
+	Snorlax: HP 36 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	Snorlax: HP 32 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 4
+	Snorlax: HP 32, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 3
+	Snorlax: HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 2
+	Snorlax: HP 32, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 24 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	Snorlax: HP 32
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20 si este stuned, abilitate 2 cooldown 4
+	Snorlax: HP 32, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 20, abilitate 2 cooldown 3
+	Snorlax: HP 32, abilitate 1 cooldown 4
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+	Snorlax: HP 32 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Snorlax: HP 32, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 3
+	Snorlax: HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 2
+	Snorlax: HP 32, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 20 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	Snorlax: HP 32, abilitate 2 cooldown 1
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16 si este stuned, abilitate 2 cooldown 4
+	Snorlax: HP 32, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 16, abilitate 2 cooldown 3
+	Snorlax: HP 32, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 16, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+	Snorlax: HP 28 si este stuned, abilitate 1 cooldown 3
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Snorlax: HP 28, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16, abilitate 1 cooldown 3
+	Snorlax: HP 28 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 16 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Snorlax: HP 28, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Snorlax: HP 28, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 12 si este stuned, abilitate 2 cooldown 3
+	Snorlax: HP 28, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 12, abilitate 2 cooldown 2
+	Snorlax: HP 28, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12, abilitate 2 cooldown 1
+	Snorlax: HP 28, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12
+	Snorlax: HP 28 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12
+	Snorlax: HP 28, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12
+	Snorlax: HP 28, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 12, abilitate 1 cooldown 5
+	Snorlax: HP 24 si este stuned, abilitate 2 cooldown 2
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 12 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 24, abilitate 2 cooldown 1
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 24, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 24, abilitate 1 cooldown 4
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 24 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 2 cooldown 1
+	Snorlax: HP 24, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 5
+	Snorlax: HP 20 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 8 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 20, abilitate 2 cooldown 2
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 20, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 20, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 20, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 2 cooldown 1
+	Snorlax: HP 20, abilitate 1 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4
+	Snorlax: HP 20, abilitate 1 cooldown 1
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 5
+	Snorlax: HP 20 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 4 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 20, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 20, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 20, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 20, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 2 cooldown 1
+	Snorlax: HP 20, abilitate 1 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4
+	Snorlax: HP 20
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 5
+	Snorlax: HP 20 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 4 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 20, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 20, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 20, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 20, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 2 cooldown 1
+	Snorlax: HP 20, abilitate 1 cooldown 1
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4
+	Snorlax: HP 20 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 0 si este stuned, abilitate 1 cooldown 5
+	Snorlax: HP 16 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Antrenorul 2 (Snorlax) castiga Arena, invingand pe celalalt jucator.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 65, Attack 6, Defense 9, Special Defence 7
+
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 64, abilitate 1 cooldown 5
+	Snorlax: HP 61 si este stuned
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 64 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 61
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 61, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 61, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 61, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 2 cooldown 1
+	Snorlax: HP 61 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60
+	Snorlax: HP 61, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 5
+	Snorlax: HP 57 si este stuned, abilitate 2 cooldown 3
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 4
+	Snorlax: HP 57, abilitate 2 cooldown 2
+Snorlax abilitate 1 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 60 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Snorlax: HP 57, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Snorlax: HP 57, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Snorlax: HP 57, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 2 cooldown 2
+	Snorlax: HP 57, abilitate 1 cooldown 2
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	Snorlax: HP 53 si este stuned, abilitate 1 cooldown 1
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 4
+	Snorlax: HP 53
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 60, abilitate 1 cooldown 3
+	Snorlax: HP 53 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56 si este stuned, abilitate 1 cooldown 2
+	Snorlax: HP 53, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 1
+	Snorlax: HP 53, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56
+	Snorlax: HP 53, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56
+	Snorlax: HP 53, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 56 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 53, abilitate 1 cooldown 1
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 49 si este stuned
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 49
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 49
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 56, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 49 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52 si este stuned, abilitate 1 cooldown 1
+	Snorlax: HP 49, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 52
+	Snorlax: HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 5
+	Snorlax: HP 45 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 52 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 45, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 45, abilitate 1 cooldown 1
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 45 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 52, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 45, abilitate 2 cooldown 4
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48 si este stuned, abilitate 2 cooldown 1
+	Snorlax: HP 45, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 48
+	Snorlax: HP 45, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48
+	Snorlax: HP 45, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48
+	Snorlax: HP 45, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 48 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 45 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 48, abilitate 2 cooldown 4
+	Snorlax: HP 45, abilitate 2 cooldown 4
+Snorlax abilitate 1 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 44 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Snorlax: HP 41 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax nimic Snorlax nimic -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Snorlax: HP 41, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Snorlax: HP 41, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 2
+	Snorlax: HP 41, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 1
+	Snorlax: HP 41 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 44 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 41, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 37 si este stuned, abilitate 2 cooldown 3
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 37, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 37, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 37
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40 si este stuned, abilitate 1 cooldown 1
+	Snorlax: HP 37, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 40
+	Snorlax: HP 37, abilitate 1 cooldown 4
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 5
+	Snorlax: HP 37 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 4
+	Snorlax: HP 37, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 40 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Snorlax: HP 37, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Snorlax: HP 37, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Snorlax: HP 37, abilitate 2 cooldown 1
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36 si este stuned, abilitate 2 cooldown 2
+	Snorlax: HP 37, abilitate 1 cooldown 5
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 36, abilitate 2 cooldown 1
+	Snorlax: HP 37, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 5
+	Snorlax: HP 33 si este stuned, abilitate 1 cooldown 3
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 36 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 33, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 33 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 33, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 33, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 2 cooldown 1
+	Snorlax: HP 33, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 5
+	Snorlax: HP 29 si este stuned, abilitate 2 cooldown 1
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 4
+	Snorlax: HP 29
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 36 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Snorlax: HP 29
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Snorlax: HP 29 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 36, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Snorlax: HP 29, abilitate 2 cooldown 4
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32 si este stuned, abilitate 2 cooldown 2
+	Snorlax: HP 29, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 32, abilitate 2 cooldown 1
+	Snorlax: HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32
+	Snorlax: HP 29, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 32 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 29, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32, abilitate 2 cooldown 4
+	Snorlax: HP 29 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 32, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Snorlax: HP 25 si este stuned, abilitate 2 cooldown 4
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 32, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Snorlax: HP 25, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Snorlax: HP 25, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 28, abilitate 1 cooldown 2
+	Snorlax: HP 25, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 1 cooldown 1
+	Snorlax: HP 25, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28
+	Snorlax: HP 25 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 28 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 28, abilitate 2 cooldown 4
+	Snorlax: HP 25, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 24 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Snorlax: HP 21 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax nimic Snorlax nimic -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Snorlax: HP 21, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Snorlax: HP 21, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 2
+	Snorlax: HP 21, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 24, abilitate 1 cooldown 1
+	Snorlax: HP 21 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 24 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 21, abilitate 2 cooldown 4
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20 si este stuned, abilitate 2 cooldown 4
+	Snorlax: HP 21, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 20, abilitate 2 cooldown 3
+	Snorlax: HP 21, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 2 cooldown 2
+	Snorlax: HP 21, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+	Snorlax: HP 17 si este stuned, abilitate 1 cooldown 2
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 4
+	Snorlax: HP 17, abilitate 1 cooldown 1
+Snorlax abilitate 2 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 20 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Snorlax: HP 17 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Snorlax: HP 17, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Snorlax: HP 17, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16 si este stuned, abilitate 2 cooldown 2
+	Snorlax: HP 17, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 16, abilitate 2 cooldown 1
+	Snorlax: HP 17, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16
+	Snorlax: HP 17, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 16
+	Snorlax: HP 17 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 16, abilitate 1 cooldown 5
+	Snorlax: HP 13 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 16 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 13, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 13, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 12, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 13, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 13, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12, abilitate 2 cooldown 1
+	Snorlax: HP 13, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12
+	Snorlax: HP 13 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 12, abilitate 1 cooldown 5
+	Snorlax: HP 9 si este stuned, abilitate 2 cooldown 4
+Snorlax nimic Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 12 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+	Snorlax: HP 9, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+	Snorlax: HP 9, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Snorlax: HP 9, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Snorlax: HP 9, abilitate 1 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 2 cooldown 1
+	Snorlax: HP 9, abilitate 1 cooldown 2
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 5
+	Snorlax: HP 9 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 4
+	Snorlax: HP 9, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 3
+	Snorlax: HP 9, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 2
+	Snorlax: HP 9, abilitate 2 cooldown 2
+Snorlax abilitate 1 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 8 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+	Snorlax: HP 9, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 2 cooldown 4
+	Snorlax: HP 9, abilitate 1 cooldown 4
+Snorlax abilitate 2 Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Snorlax: HP 9 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Snorlax: HP 9, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Snorlax: HP 9, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 8, abilitate 1 cooldown 2
+	Snorlax: HP 9, abilitate 2 cooldown 2
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4 si este stuned, abilitate 1 cooldown 1
+	Snorlax: HP 9, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Snorlax atac normal Snorlax nimic -> Rezultat:
+	Snorlax: HP 4
+	Snorlax: HP 9, abilitate 1 cooldown 4
+Snorlax atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4
+	Snorlax: HP 9, abilitate 1 cooldown 3
+Snorlax abilitate 2 Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 4 (dodge), abilitate 2 cooldown 5
+	Snorlax: HP 9 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Snorlax atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Snorlax: HP 5 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Snorlax nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 4, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 5, abilitate 2 cooldown 3
+Snorlax abilitate 1 Snorlax atac normal -> Rezultat:
+	Snorlax: HP 0 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 5, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Antrenorul 2 (Snorlax) castiga Arena, invingand pe celalalt jucator.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 66, Attack 7, Defense 10, Special Defence 8
+

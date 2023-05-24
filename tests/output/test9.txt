@@ -1,0 +1,703 @@
+Charmander abilitate 1 Neutrel1 atac normal -> Rezultat:
+	Charmander: HP 52, abilitate 1 cooldown 4
+	Neutrel1: HP 6 si este stuned
+Neutrel1 nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 52, abilitate 1 cooldown 3
+	Neutrel1: HP -2
+Antrenorul 1 (Charmander) castiga Lupta.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 53, Attack 10, Defense 6, Special Defence 5
+
+Neutrel1 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 52
+	Neutrel1: HP 6
+Neutrel1 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 52, abilitate 2 cooldown 3
+	Neutrel1: HP 1
+Neutrel1 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 52, abilitate 2 cooldown 2
+	Neutrel1: HP -3
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 53, Special Attack 6, Defense 5, Special Defence 2
+
+Neutrel1 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 41
+	Neutrel1: HP 2
+Neutrel1 atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 41, abilitate 2 cooldown 3
+	Neutrel1: HP -1 si este stuned
+Antrenorul 1 (Eevee) castiga Lupta.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 42, Special Attack 10, Defense 4, Special Defence 7
+
+Neutrel1 atac normal Psyduck abilitate 1 -> Rezultat:
+	Psyduck: HP 43, abilitate 1 cooldown 4
+	Neutrel1: HP 8
+Neutrel1 atac normal Psyduck abilitate 2 -> Rezultat:
+	Psyduck: HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Neutrel1: HP 6 si este stuned
+Neutrel1 nimic Psyduck atac normal -> Rezultat:
+	Psyduck: HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Neutrel1: HP 1
+Neutrel1 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Neutrel1: HP -4
+Antrenorul 2 (Psyduck) castiga Lupta.
+Psyduck are acum +1 la toate caracteristicile.
+Atribute Psyduck: HP 44, Attack 7, Defense 7, Special Defence 9
+
+Neutrel1 atac normal Vulpix abilitate 2 -> Rezultat:
+	Vulpix: HP 48 (dodge), abilitate 2 cooldown 7
+	Neutrel1: HP 8
+Neutrel1 atac normal Vulpix abilitate 1 -> Rezultat:
+	Vulpix: HP 47, abilitate 1 cooldown 6, abilitate 2 cooldown 6
+	Neutrel1: HP 0 si este stuned
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 49, Attack 11, Defense 3, Special Defence 5
+
+Neutrel1 atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 72 (dodge), abilitate 2 cooldown 5
+	Neutrel1: HP 10
+Neutrel1 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 72, abilitate 2 cooldown 4
+	Neutrel1: HP 5
+Snorlax abilitate 1 Neutrel1 atac normal -> Rezultat:
+	Snorlax: HP 72, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Neutrel1: HP 1 si este stuned
+Neutrel1 nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 72, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel1: HP -4
+Antrenorul 2 (Snorlax) castiga Lupta.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 73, Attack 7, Defense 10, Special Defence 7
+
+Neutrel1 atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 53
+	Neutrel1: HP 1
+Neutrel1 atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 53, abilitate 1 cooldown 4
+	Neutrel1: HP -3 si este stuned
+Antrenorul 1 (Charmander) castiga Lupta.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 54, Attack 11, Defense 7, Special Defence 6
+
+Neutrel1 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 53, abilitate 2 cooldown 3
+	Neutrel1: HP 5
+Neutrel1 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 53, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel1: HP -1
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 54, Special Attack 7, Defense 6, Special Defence 3
+
+Neutrel1 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 42
+	Neutrel1: HP 1
+Neutrel1 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 42
+	Neutrel1: HP -8
+Antrenorul 1 (Eevee) castiga Lupta.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 43, Special Attack 11, Defense 5, Special Defence 8
+
+Neutrel1 atac normal Psyduck abilitate 1 -> Rezultat:
+	Psyduck: HP 44, abilitate 1 cooldown 4
+	Neutrel1: HP 8
+Neutrel1 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 44, abilitate 1 cooldown 3
+	Neutrel1: HP 2
+Neutrel1 atac normal Psyduck abilitate 2 -> Rezultat:
+	Psyduck: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Neutrel1: HP 0 si este stuned
+Antrenorul 2 (Psyduck) castiga Lupta.
+Psyduck are acum +1 la toate caracteristicile.
+Atribute Psyduck: HP 45, Attack 8, Defense 8, Special Defence 10
+
+Neutrel1 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 49
+	Neutrel1: HP 0
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 50, Attack 12, Defense 4, Special Defence 6
+
+Neutrel1 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 73
+	Neutrel1: HP 4
+Neutrel1 atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 73 (dodge), abilitate 2 cooldown 5
+	Neutrel1: HP 4
+Neutrel1 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 73, abilitate 2 cooldown 4
+	Neutrel1: HP -2
+Antrenorul 2 (Snorlax) castiga Lupta.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 74, Attack 8, Defense 11, Special Defence 8
+
+Neutrel2 atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 54, abilitate 1 cooldown 4
+	Neutrel2: HP 16 si este stuned
+Neutrel2 nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 54, abilitate 1 cooldown 3
+	Neutrel2: HP 6
+Neutrel2 atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 54, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+	Neutrel2: HP -1
+Antrenorul 1 (Charmander) castiga Lupta.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 55, Attack 12, Defense 8, Special Defence 7
+
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 54
+	Neutrel2: HP 14
+Neutrel2 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 54, abilitate 2 cooldown 3
+	Neutrel2: HP 9
+Neutrel2 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 54, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel2: HP 3
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 54, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Neutrel2: HP -3
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 55, Special Attack 8, Defense 7, Special Defence 4
+
+Neutrel2 atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 43, abilitate 1 cooldown 3
+	Neutrel2: HP 15
+Neutrel2 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 43, abilitate 1 cooldown 2
+	Neutrel2: HP 5
+Neutrel2 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 43, abilitate 1 cooldown 1
+	Neutrel2: HP -5
+Antrenorul 1 (Eevee) castiga Lupta.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 44, Special Attack 12, Defense 6, Special Defence 9
+
+Neutrel2 atac normal Psyduck abilitate 1 -> Rezultat:
+	Psyduck: HP 45, abilitate 1 cooldown 4
+	Neutrel2: HP 18
+Neutrel2 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 45, abilitate 1 cooldown 3
+	Neutrel2: HP 11
+Neutrel2 atac normal Psyduck abilitate 2 -> Rezultat:
+	Psyduck: HP 45, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Neutrel2: HP 9 si este stuned
+Neutrel2 nimic Psyduck atac normal -> Rezultat:
+	Psyduck: HP 45, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Neutrel2: HP 2
+Neutrel2 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 45, abilitate 2 cooldown 3
+	Neutrel2: HP -5
+Antrenorul 2 (Psyduck) castiga Lupta.
+Psyduck are acum +1 la toate caracteristicile.
+Atribute Psyduck: HP 46, Attack 9, Defense 9, Special Defence 11
+
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 50
+	Neutrel2: HP 9
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 50
+	Neutrel2: HP -2
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 51, Attack 13, Defense 5, Special Defence 7
+
+Neutrel2 atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 74 (dodge), abilitate 2 cooldown 5
+	Neutrel2: HP 20
+Neutrel2 atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 74, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Neutrel2: HP 16 si este stuned
+Snorlax atac normal Neutrel2 nimic -> Rezultat:
+	Snorlax: HP 74, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Neutrel2: HP 9
+Neutrel2 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 74, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Neutrel2: HP 2
+Neutrel2 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 74, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Neutrel2: HP -5
+Antrenorul 2 (Snorlax) castiga Lupta.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 75, Attack 9, Defense 12, Special Defence 9
+
+Neutrel2 atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 55
+	Neutrel2: HP 9
+Neutrel2 atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 55
+	Neutrel2: HP -2
+Antrenorul 1 (Charmander) castiga Lupta.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 56, Attack 13, Defense 9, Special Defence 8
+
+Neutrel2 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 55, abilitate 2 cooldown 3
+	Neutrel2: HP 15
+Neutrel2 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 55, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel2: HP 9
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 55, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Neutrel2: HP 2
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 55, abilitate 1 cooldown 2
+	Neutrel2: HP -5
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 56, Special Attack 9, Defense 8, Special Defence 5
+
+Neutrel2 atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 44, abilitate 2 cooldown 3
+	Neutrel2: HP 17 si este stuned
+Neutrel2 nimic Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Neutrel2: HP 12
+Neutrel2 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Neutrel2: HP 1
+Neutrel2 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 44, abilitate 1 cooldown 1
+	Neutrel2: HP -10
+Antrenorul 1 (Eevee) castiga Lupta.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 45, Special Attack 13, Defense 7, Special Defence 10
+
+Neutrel2 atac normal Psyduck abilitate 2 -> Rezultat:
+	Psyduck: HP 46, abilitate 2 cooldown 5
+	Neutrel2: HP 18 si este stuned
+Neutrel2 nimic Psyduck atac normal -> Rezultat:
+	Psyduck: HP 46, abilitate 2 cooldown 4
+	Neutrel2: HP 10
+Neutrel2 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 46, abilitate 2 cooldown 3
+	Neutrel2: HP 2
+Neutrel2 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 46, abilitate 2 cooldown 2
+	Neutrel2: HP -6
+Antrenorul 2 (Psyduck) castiga Lupta.
+Psyduck are acum +1 la toate caracteristicile.
+Atribute Psyduck: HP 47, Attack 10, Defense 10, Special Defence 12
+
+Neutrel2 atac normal Vulpix abilitate 2 -> Rezultat:
+	Vulpix: HP 51 (dodge), abilitate 2 cooldown 7
+	Neutrel2: HP 18
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 51, abilitate 2 cooldown 6
+	Neutrel2: HP 6
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 51, abilitate 2 cooldown 5
+	Neutrel2: HP -6
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 52, Attack 14, Defense 6, Special Defence 8
+
+Neutrel2 atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 75 (dodge), abilitate 2 cooldown 5
+	Neutrel2: HP 20
+Neutrel2 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 75, abilitate 2 cooldown 4
+	Neutrel2: HP 12
+Neutrel2 atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 75, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+	Neutrel2: HP 8 si este stuned
+Neutrel2 nimic Snorlax atac normal -> Rezultat:
+	Snorlax: HP 75, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Neutrel2: HP 0
+Antrenorul 2 (Snorlax) castiga Lupta.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 76, Attack 10, Defense 13, Special Defence 10
+
+Neutrel2 atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 56
+	Neutrel2: HP 8
+Neutrel2 atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 56, abilitate 2 cooldown 6
+	Neutrel2: HP 1
+Neutrel2 atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 56, abilitate 2 cooldown 5
+	Neutrel2: HP -11
+Antrenorul 1 (Charmander) castiga Lupta.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 57, Attack 14, Defense 10, Special Defence 9
+
+Neutrel2 atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 4
+	Neutrel2: HP 14
+Neutrel2 atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Neutrel2: HP 9
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Neutrel2: HP 1
+Neutrel2 atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 56, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Neutrel2: HP -7
+Antrenorul 1 (Bulbasaur) castiga Lupta.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 57, Special Attack 10, Defense 9, Special Defence 6
+
+Neutrel2 atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 45, abilitate 1 cooldown 3
+	Neutrel2: HP 15
+Neutrel2 atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 45, abilitate 1 cooldown 2
+	Neutrel2: HP 3
+Neutrel2 atac normal Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 45, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Neutrel2: HP 0 si este stuned
+Antrenorul 1 (Eevee) castiga Lupta.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 46, Special Attack 14, Defense 8, Special Defence 11
+
+Neutrel2 atac normal Psyduck abilitate 2 -> Rezultat:
+	Psyduck: HP 47, abilitate 2 cooldown 5
+	Neutrel2: HP 18 si este stuned
+Neutrel2 nimic Psyduck abilitate 1 -> Rezultat:
+	Psyduck: HP 47, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Neutrel2: HP 16
+Neutrel2 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 47, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Neutrel2: HP 7
+Neutrel2 atac normal Psyduck atac normal -> Rezultat:
+	Psyduck: HP 47, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Neutrel2: HP -2
+Antrenorul 2 (Psyduck) castiga Lupta.
+Psyduck are acum +1 la toate caracteristicile.
+Atribute Psyduck: HP 48, Attack 11, Defense 11, Special Defence 13
+
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 52
+	Neutrel2: HP 7
+Neutrel2 atac normal Vulpix atac normal -> Rezultat:
+	Vulpix: HP 52
+	Neutrel2: HP -6
+Antrenorul 2 (Vulpix) castiga Lupta.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 53, Attack 15, Defense 7, Special Defence 9
+
+Neutrel2 atac normal Snorlax abilitate 2 -> Rezultat:
+	Snorlax: HP 76 (dodge), abilitate 2 cooldown 5
+	Neutrel2: HP 20
+Neutrel2 atac normal Snorlax abilitate 1 -> Rezultat:
+	Snorlax: HP 76, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+	Neutrel2: HP 16 si este stuned
+Snorlax atac normal Neutrel2 nimic -> Rezultat:
+	Snorlax: HP 76, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Neutrel2: HP 7
+Neutrel2 atac normal Snorlax atac normal -> Rezultat:
+	Snorlax: HP 76, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Neutrel2: HP -2
+Antrenorul 2 (Snorlax) castiga Lupta.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 77, Attack 11, Defense 14, Special Defence 11
+
+Psyduck abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 55
+	Psyduck: HP 45, abilitate 1 cooldown 4
+Psyduck atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 54, abilitate 2 cooldown 6
+	Psyduck: HP 38, abilitate 1 cooldown 3
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 53, abilitate 2 cooldown 5
+	Psyduck: HP 35, abilitate 1 cooldown 2
+Psyduck abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 51 si este stuned, abilitate 2 cooldown 4
+	Psyduck: HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 50, abilitate 2 cooldown 3
+	Psyduck: HP 32, abilitate 2 cooldown 4
+Psyduck atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Psyduck: HP 28 si este stuned, abilitate 2 cooldown 3
+Psyduck nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Psyduck: HP 25, abilitate 2 cooldown 2
+Psyduck abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 47, abilitate 1 cooldown 2
+	Psyduck: HP 22, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Psyduck atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 46, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	Psyduck: HP 15, abilitate 1 cooldown 3
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 45, abilitate 2 cooldown 5
+	Psyduck: HP 12, abilitate 1 cooldown 2
+Psyduck abilitate 2 Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 43 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Psyduck: HP 8 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck nimic Charmander nimic -> Rezultat:
+	Charmander: HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Psyduck: HP 8, abilitate 2 cooldown 4
+Psyduck abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Psyduck: HP 5, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 40, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Psyduck: HP 2, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Psyduck atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 39
+	Psyduck: HP -1, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Antrenorul 1 (Charmander) castiga Arena, invingand pe celalalt jucator.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 58, Attack 15, Defense 11, Special Defence 10
+
+Vulpix abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 55
+	Vulpix: HP 53 (dodge), abilitate 2 cooldown 7
+Vulpix atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 49, abilitate 2 cooldown 3
+	Vulpix: HP 48, abilitate 2 cooldown 6
+Vulpix atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Vulpix: HP 42, abilitate 2 cooldown 5
+Vulpix atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 37, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Vulpix: HP 41, abilitate 2 cooldown 4
+Vulpix atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 31, abilitate 1 cooldown 2
+	Vulpix: HP 40, abilitate 2 cooldown 3
+Vulpix atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 25, abilitate 1 cooldown 1
+	Vulpix: HP 39, abilitate 2 cooldown 2
+Vulpix atac normal Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 19, abilitate 2 cooldown 3
+	Vulpix: HP 34, abilitate 2 cooldown 1
+Vulpix atac normal Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 13, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Vulpix: HP 28
+Vulpix abilitate 1 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 5 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Vulpix: HP 27, abilitate 1 cooldown 6
+Vulpix abilitate 2 Bulbasaur nimic -> Rezultat:
+	Bulbasaur: HP 3, abilitate 1 cooldown 2
+	Vulpix: HP 27 (dodge), abilitate 1 cooldown 5, abilitate 2 cooldown 7
+Vulpix atac normal Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP -3, abilitate 1 cooldown 1
+	Vulpix: HP 26, abilitate 1 cooldown 4, abilitate 2 cooldown 6
+Antrenorul 2 (Vulpix) castiga Arena, invingand pe celalalt jucator.
+Vulpix are acum +1 la toate caracteristicile.
+Atribute Vulpix: HP 54, Attack 16, Defense 8, Special Defence 10
+
+Snorlax abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 46, abilitate 1 cooldown 3
+	Snorlax: HP 77 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 42 si este stuned, abilitate 1 cooldown 2
+	Snorlax: HP 74, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Eevee nimic -> Rezultat:
+	Eevee: HP 39, abilitate 1 cooldown 1
+	Snorlax: HP 74, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 36
+	Snorlax: HP 71, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 33
+	Snorlax: HP 68, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 30
+	Snorlax: HP 65, abilitate 1 cooldown 1
+Snorlax abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 30
+	Snorlax: HP 65 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 26 si este stuned, abilitate 2 cooldown 3
+	Snorlax: HP 62 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax nimic Eevee nimic -> Rezultat:
+	Eevee: HP 26, abilitate 2 cooldown 2
+	Snorlax: HP 62, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 23, abilitate 2 cooldown 1
+	Snorlax: HP 59, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 20
+	Snorlax: HP 56, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 17
+	Snorlax: HP 53, abilitate 1 cooldown 1
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 14
+	Snorlax: HP 50
+Snorlax abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 10 si este stuned
+	Snorlax: HP 47, abilitate 1 cooldown 5
+Snorlax abilitate 2 Eevee nimic -> Rezultat:
+	Eevee: HP 10
+	Snorlax: HP 47 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 7
+	Snorlax: HP 44, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 4
+	Snorlax: HP 41, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Snorlax atac normal Eevee atac special -> Rezultat:
+	Eevee: HP 1
+	Snorlax: HP 38, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Snorlax atac normal Eevee abilitate 1 -> Rezultat:
+	Eevee: HP -2, abilitate 1 cooldown 3
+	Snorlax: HP 33, abilitate 2 cooldown 1
+Antrenorul 2 (Snorlax) castiga Arena, invingand pe celalalt jucator.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 78, Attack 12, Defense 15, Special Defence 12
+
+Snorlax abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 58
+	Snorlax: HP 78 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 54 si este stuned, abilitate 2 cooldown 6
+	Snorlax: HP 71, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 53, abilitate 2 cooldown 5
+	Snorlax: HP 71, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 52, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Snorlax: HP 67 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 52, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Snorlax: HP 67, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 51, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Snorlax: HP 67, abilitate 1 cooldown 1
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 50, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Snorlax: HP 67
+Snorlax abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 50
+	Snorlax: HP 67 (dodge), abilitate 2 cooldown 5
+Snorlax abilitate 1 Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 46 si este stuned, abilitate 2 cooldown 6
+	Snorlax: HP 60, abilitate 1 cooldown 5, abilitate 2 cooldown 4
+Snorlax atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 45, abilitate 2 cooldown 5
+	Snorlax: HP 60, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 44, abilitate 2 cooldown 4
+	Snorlax: HP 60, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Snorlax atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 43, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Snorlax: HP 56 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Charmander atac normal Snorlax nimic -> Rezultat:
+	Charmander: HP 43, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Snorlax: HP 56, abilitate 1 cooldown 1
+Snorlax abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 43, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Snorlax: HP 56 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 42, abilitate 1 cooldown 1
+	Snorlax: HP 56, abilitate 2 cooldown 4
+Snorlax abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 38 si este stuned
+	Snorlax: HP 56, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 37
+	Snorlax: HP 56, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 36, abilitate 2 cooldown 6
+	Snorlax: HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 35, abilitate 2 cooldown 5
+	Snorlax: HP 49, abilitate 1 cooldown 2
+Snorlax abilitate 2 Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 35, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Snorlax: HP 49 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Snorlax: HP 49, abilitate 2 cooldown 4
+Snorlax abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 30 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Snorlax: HP 49, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Snorlax: HP 49, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 28
+	Snorlax: HP 49, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 27, abilitate 1 cooldown 4
+	Snorlax: HP 45 si este stuned, abilitate 1 cooldown 2
+Snorlax nimic Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 27, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+	Snorlax: HP 38, abilitate 1 cooldown 1
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 26, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Snorlax: HP 38
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 25, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Snorlax: HP 38
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 24, abilitate 2 cooldown 3
+	Snorlax: HP 38
+Snorlax abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 24, abilitate 2 cooldown 2
+	Snorlax: HP 38 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 23, abilitate 2 cooldown 1
+	Snorlax: HP 38, abilitate 2 cooldown 4
+Snorlax abilitate 1 Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 19 si este stuned, abilitate 1 cooldown 4
+	Snorlax: HP 34 si este stuned, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Snorlax nimic Charmander nimic -> Rezultat:
+	Charmander: HP 19, abilitate 1 cooldown 3
+	Snorlax: HP 34, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 18, abilitate 1 cooldown 2
+	Snorlax: HP 34, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Snorlax atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 17, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	Snorlax: HP 27, abilitate 1 cooldown 2
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 16, abilitate 2 cooldown 5
+	Snorlax: HP 27, abilitate 1 cooldown 1
+Snorlax atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 15, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+	Snorlax: HP 23 si este stuned
+Snorlax nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 15, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Snorlax: HP 23
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 14, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Snorlax: HP 23
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Snorlax: HP 23
+Snorlax abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP 9 si este stuned
+	Snorlax: HP 23, abilitate 1 cooldown 5
+Snorlax atac normal Charmander nimic -> Rezultat:
+	Charmander: HP 8
+	Snorlax: HP 23, abilitate 1 cooldown 4
+Snorlax abilitate 2 Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 8, abilitate 2 cooldown 6
+	Snorlax: HP 23 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 7, abilitate 2 cooldown 5
+	Snorlax: HP 23, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 6, abilitate 2 cooldown 4
+	Snorlax: HP 23, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Snorlax atac normal Charmander atac normal -> Rezultat:
+	Charmander: HP 5, abilitate 2 cooldown 3
+	Snorlax: HP 23, abilitate 2 cooldown 2
+Snorlax atac normal Charmander abilitate 1 -> Rezultat:
+	Charmander: HP 4, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Snorlax: HP 19 si este stuned, abilitate 2 cooldown 1
+Snorlax nimic Charmander atac normal -> Rezultat:
+	Charmander: HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Snorlax: HP 19
+Snorlax abilitate 2 Charmander atac normal -> Rezultat:
+	Charmander: HP 4, abilitate 1 cooldown 2
+	Snorlax: HP 19 (dodge), abilitate 2 cooldown 5
+Snorlax atac normal Charmander abilitate 2 -> Rezultat:
+	Charmander: HP 3, abilitate 1 cooldown 1, abilitate 2 cooldown 6
+	Snorlax: HP 12, abilitate 2 cooldown 4
+Snorlax abilitate 1 Charmander atac normal -> Rezultat:
+	Charmander: HP -1 si este stuned, abilitate 2 cooldown 5
+	Snorlax: HP 12, abilitate 1 cooldown 5, abilitate 2 cooldown 3
+Antrenorul 2 (Snorlax) castiga Arena, invingand pe celalalt jucator.
+Snorlax are acum +1 la toate caracteristicile.
+Atribute Snorlax: HP 79, Attack 13, Defense 16, Special Defence 13
+

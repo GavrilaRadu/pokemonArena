@@ -1,0 +1,280 @@
+Charmander atac normal Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 34, abilitate 1 cooldown 4
+	Charmander: HP 56
+Charmander abilitate 1 Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 34 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+	Charmander: HP 52 si este stuned, abilitate 1 cooldown 4
+Charmander nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 34 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Charmander: HP 52, abilitate 1 cooldown 3
+Charmander abilitate 2 Pikachu nimic -> Rezultat:
+	Pikachu: HP 27, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Charmander: HP 52, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+Charmander atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 26, abilitate 2 cooldown 2
+	Charmander: HP 52, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Charmander atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 25, abilitate 2 cooldown 1
+	Charmander: HP 52, abilitate 2 cooldown 4
+Charmander abilitate 1 Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 21 si este stuned, abilitate 1 cooldown 4
+	Charmander: HP 46, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Pikachu nimic Charmander atac normal -> Rezultat:
+	Pikachu: HP 20, abilitate 1 cooldown 3
+	Charmander: HP 46, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Charmander atac normal Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 20 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 5
+	Charmander: HP 42 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Charmander nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+	Charmander: HP 42, abilitate 1 cooldown 1
+Charmander atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 19, abilitate 2 cooldown 3
+	Charmander: HP 42
+Charmander atac normal Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 18, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Charmander: HP 36
+Charmander abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP 11, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Charmander: HP 36, abilitate 2 cooldown 6
+Charmander abilitate 1 Pikachu atac special -> Rezultat:
+	Pikachu: HP 7 si este stuned, abilitate 1 cooldown 2
+	Charmander: HP 36, abilitate 1 cooldown 4, abilitate 2 cooldown 5
+Charmander atac normal Pikachu nimic -> Rezultat:
+	Pikachu: HP 6, abilitate 1 cooldown 1
+	Charmander: HP 36, abilitate 1 cooldown 3, abilitate 2 cooldown 4
+Charmander atac normal Pikachu abilitate 2 -> Rezultat:
+	Pikachu: HP 6 (dodge), abilitate 2 cooldown 5
+	Charmander: HP 32 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Charmander nimic Pikachu atac special -> Rezultat:
+	Pikachu: HP 6, abilitate 2 cooldown 4
+	Charmander: HP 32, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Charmander atac normal Pikachu abilitate 1 -> Rezultat:
+	Pikachu: HP 5, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Charmander: HP 26, abilitate 2 cooldown 1
+Charmander atac normal Pikachu atac special -> Rezultat:
+	Pikachu: HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Charmander: HP 26
+Charmander abilitate 2 Pikachu atac special -> Rezultat:
+	Pikachu: HP -3, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Charmander: HP 26, abilitate 2 cooldown 6
+Antrenorul 2 (Charmander) castiga Arena, invingand pe celalalt jucator.
+Charmander are acum +1 la toate caracteristicile.
+Atribute Charmander: HP 63, Attack 7, Defense 6, Special Defence 5
+
+Bulbasaur abilitate 1 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 48, abilitate 1 cooldown 4
+	Bulbasaur: HP 46, abilitate 1 cooldown 4
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 47, abilitate 1 cooldown 3
+	Bulbasaur: HP 43, abilitate 1 cooldown 3
+Bulbasaur abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 42, abilitate 1 cooldown 2
+	Bulbasaur: HP 40, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 41, abilitate 1 cooldown 1
+	Bulbasaur: HP 37, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Bulbasaur atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 40, abilitate 2 cooldown 3
+	Bulbasaur: HP 32, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 39, abilitate 2 cooldown 2
+	Bulbasaur: HP 29
+Bulbasaur abilitate 1 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 33, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Bulbasaur: HP 23, abilitate 1 cooldown 4
+Bulbasaur abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 28, abilitate 1 cooldown 3
+	Bulbasaur: HP 20, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Bulbasaur atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 27, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Bulbasaur: HP 15, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 26, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Bulbasaur: HP 12, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Bulbasaur atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 25, abilitate 2 cooldown 1
+	Bulbasaur: HP 9
+Bulbasaur abilitate 1 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 19
+	Bulbasaur: HP 6, abilitate 1 cooldown 4
+Bulbasaur abilitate 2 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 14, abilitate 1 cooldown 4
+	Bulbasaur: HP 0, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Antrenorul 1 (Bulbasaur) castiga Arena, invingand pe celalalt jucator.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 55, Special Attack 8, Defense 4, Special Defence 5
+
+Squirtle abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 37
+	Squirtle: HP 60, abilitate 1 cooldown 3
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 35 si este stuned
+	Squirtle: HP 58, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Squirtle atac special Eevee nimic -> Rezultat:
+	Eevee: HP 35
+	Squirtle: HP 58, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 35, abilitate 2 cooldown 3
+	Squirtle: HP 55 si este stuned
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 35, abilitate 2 cooldown 2
+	Squirtle: HP 53
+Squirtle abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 33 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Squirtle: HP 48, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 29, abilitate 1 cooldown 2
+	Squirtle: HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 29, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Squirtle: HP 45 si este stuned, abilitate 1 cooldown 2
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 29, abilitate 2 cooldown 2
+	Squirtle: HP 43, abilitate 1 cooldown 1
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 29, abilitate 2 cooldown 1
+	Squirtle: HP 41
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 29
+	Squirtle: HP 39
+Squirtle abilitate 1 Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 25, abilitate 2 cooldown 3
+	Squirtle: HP 36 si este stuned, abilitate 1 cooldown 3
+Squirtle nimic Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 25, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Squirtle: HP 31, abilitate 1 cooldown 2
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 25, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Squirtle: HP 29, abilitate 1 cooldown 1
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 23 si este stuned, abilitate 1 cooldown 1
+	Squirtle: HP 27, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 19
+	Squirtle: HP 27, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 19
+	Squirtle: HP 25, abilitate 1 cooldown 2
+Squirtle abilitate 2 Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 17 si este stuned, abilitate 1 cooldown 3
+	Squirtle: HP 20, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Eevee nimic -> Rezultat:
+	Eevee: HP 17, abilitate 1 cooldown 2
+	Squirtle: HP 20, abilitate 2 cooldown 1
+Squirtle atac special Eevee atac special -> Rezultat:
+	Eevee: HP 17, abilitate 1 cooldown 1
+	Squirtle: HP 18
+Squirtle abilitate 1 Eevee atac special -> Rezultat:
+	Eevee: HP 13
+	Squirtle: HP 16, abilitate 1 cooldown 3
+Squirtle atac special Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 13, abilitate 1 cooldown 3
+	Squirtle: HP 11, abilitate 1 cooldown 2
+Squirtle atac special Eevee abilitate 2 -> Rezultat:
+	Eevee: HP 13, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Squirtle: HP 8 si este stuned, abilitate 1 cooldown 1
+Squirtle nimic Eevee atac special -> Rezultat:
+	Eevee: HP 13, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Squirtle: HP 6
+Squirtle abilitate 2 Eevee atac special -> Rezultat:
+	Eevee: HP 11 si este stuned, abilitate 2 cooldown 1
+	Squirtle: HP 4, abilitate 2 cooldown 2
+Squirtle abilitate 1 Eevee nimic -> Rezultat:
+	Eevee: HP 7
+	Squirtle: HP 4, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Eevee abilitate 1 -> Rezultat:
+	Eevee: HP 7, abilitate 1 cooldown 3
+	Squirtle: HP -1, abilitate 1 cooldown 2
+Antrenorul 1 (Eevee) castiga Arena, invingand pe celalalt jucator.
+Eevee are acum +1 la toate caracteristicile.
+Atribute Eevee: HP 42, Special Attack 10, Defense 6, Special Defence 6
+
+Squirtle abilitate 1 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 51, abilitate 1 cooldown 4
+	Squirtle: HP 56, abilitate 1 cooldown 3
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 51, abilitate 1 cooldown 3
+	Squirtle: HP 55, abilitate 1 cooldown 2
+Squirtle abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 49 si este stuned, abilitate 1 cooldown 2
+	Squirtle: HP 54, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Bulbasaur nimic -> Rezultat:
+	Bulbasaur: HP 49, abilitate 1 cooldown 1
+	Squirtle: HP 54, abilitate 2 cooldown 1
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 49
+	Squirtle: HP 53
+Squirtle abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 47 si este stuned
+	Squirtle: HP 52, abilitate 2 cooldown 2
+Squirtle atac special Bulbasaur nimic -> Rezultat:
+	Bulbasaur: HP 47
+	Squirtle: HP 52, abilitate 2 cooldown 1
+Squirtle atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 47, abilitate 2 cooldown 3
+	Squirtle: HP 47
+Squirtle abilitate 2 Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 45 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Squirtle: HP 41, abilitate 2 cooldown 2
+Squirtle abilitate 1 Bulbasaur nimic -> Rezultat:
+	Bulbasaur: HP 41, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Squirtle: HP 41, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 41, abilitate 1 cooldown 2
+	Squirtle: HP 40, abilitate 1 cooldown 2
+Squirtle abilitate 2 Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 39 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Squirtle: HP 35, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Bulbasaur nimic -> Rezultat:
+	Bulbasaur: HP 39, abilitate 2 cooldown 2
+	Squirtle: HP 35, abilitate 2 cooldown 1
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 39, abilitate 2 cooldown 1
+	Squirtle: HP 34
+Squirtle atac special Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 39, abilitate 1 cooldown 4
+	Squirtle: HP 28
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 39, abilitate 1 cooldown 3
+	Squirtle: HP 27
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 39, abilitate 1 cooldown 2
+	Squirtle: HP 26
+Squirtle abilitate 1 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 35, abilitate 1 cooldown 1
+	Squirtle: HP 25, abilitate 1 cooldown 3
+Squirtle atac special Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 35, abilitate 2 cooldown 3
+	Squirtle: HP 20, abilitate 1 cooldown 2
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 35, abilitate 2 cooldown 2
+	Squirtle: HP 19, abilitate 1 cooldown 1
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 35, abilitate 2 cooldown 1
+	Squirtle: HP 18
+Squirtle atac special Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 35, abilitate 1 cooldown 4
+	Squirtle: HP 12
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 35, abilitate 1 cooldown 3
+	Squirtle: HP 11
+Squirtle abilitate 1 Bulbasaur abilitate 2 -> Rezultat:
+	Bulbasaur: HP 31, abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Squirtle: HP 6, abilitate 1 cooldown 3
+Squirtle atac special Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 31, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Squirtle: HP 5, abilitate 1 cooldown 2
+Squirtle abilitate 2 Bulbasaur atac special -> Rezultat:
+	Bulbasaur: HP 29 si este stuned, abilitate 2 cooldown 1
+	Squirtle: HP 4, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+Squirtle atac special Bulbasaur nimic -> Rezultat:
+	Bulbasaur: HP 29
+	Squirtle: HP 4, abilitate 2 cooldown 1
+Squirtle atac special Bulbasaur abilitate 1 -> Rezultat:
+	Bulbasaur: HP 29, abilitate 1 cooldown 4
+	Squirtle: HP -2
+Antrenorul 1 (Bulbasaur) castiga Arena, invingand pe celalalt jucator.
+Bulbasaur are acum +1 la toate caracteristicile.
+Atribute Bulbasaur: HP 56, Special Attack 9, Defense 5, Special Defence 6
+

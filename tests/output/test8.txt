@@ -1,0 +1,364 @@
+Vulpix abilitate 1 Squirtle atac special -> Rezultat:
+	Squirtle: HP 52 si este stuned
+	Vulpix: HP 36, abilitate 1 cooldown 6
+Vulpix atac normal Squirtle nimic -> Rezultat:
+	Squirtle: HP 51
+	Vulpix: HP 36, abilitate 1 cooldown 5
+Vulpix abilitate 2 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 49, abilitate 2 cooldown 2
+	Vulpix: HP 36 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 7
+Vulpix atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 48, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Vulpix: HP 32, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+Vulpix atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 47, abilitate 1 cooldown 2
+	Vulpix: HP 32, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Vulpix atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 46, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Vulpix: HP 30 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Vulpix nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 46, abilitate 2 cooldown 1
+	Vulpix: HP 30, abilitate 2 cooldown 3
+Vulpix atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 45, abilitate 1 cooldown 3
+	Vulpix: HP 26, abilitate 2 cooldown 2
+Vulpix atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 44, abilitate 1 cooldown 2
+	Vulpix: HP 26, abilitate 2 cooldown 1
+Vulpix abilitate 1 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 36 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Vulpix: HP 24 si este stuned, abilitate 1 cooldown 6
+Vulpix nimic Squirtle nimic -> Rezultat:
+	Squirtle: HP 36, abilitate 2 cooldown 1
+	Vulpix: HP 24, abilitate 1 cooldown 5
+Vulpix abilitate 2 Squirtle atac special -> Rezultat:
+	Squirtle: HP 34
+	Vulpix: HP 24 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 7
+Vulpix atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 33
+	Vulpix: HP 24, abilitate 1 cooldown 3, abilitate 2 cooldown 6
+Vulpix atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 32, abilitate 2 cooldown 2
+	Vulpix: HP 22 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Vulpix nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 32, abilitate 2 cooldown 1
+	Vulpix: HP 22, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Vulpix atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 31, abilitate 1 cooldown 3
+	Vulpix: HP 18, abilitate 2 cooldown 3
+Vulpix abilitate 1 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 23 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Vulpix: HP 16 si este stuned, abilitate 1 cooldown 6, abilitate 2 cooldown 2
+Vulpix nimic Squirtle nimic -> Rezultat:
+	Squirtle: HP 23, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Vulpix: HP 16, abilitate 1 cooldown 5, abilitate 2 cooldown 1
+Vulpix atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 22
+	Vulpix: HP 16, abilitate 1 cooldown 4
+Vulpix abilitate 2 Squirtle atac special -> Rezultat:
+	Squirtle: HP 20
+	Vulpix: HP 16 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 7
+Vulpix atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 19, abilitate 1 cooldown 3
+	Vulpix: HP 12, abilitate 1 cooldown 2, abilitate 2 cooldown 6
+Vulpix atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 18, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Vulpix: HP 10 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Vulpix nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 18, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Vulpix: HP 10, abilitate 2 cooldown 4
+Vulpix abilitate 1 Squirtle atac special -> Rezultat:
+	Squirtle: HP 10 si este stuned
+	Vulpix: HP 10, abilitate 1 cooldown 6, abilitate 2 cooldown 3
+Vulpix atac normal Squirtle nimic -> Rezultat:
+	Squirtle: HP 9
+	Vulpix: HP 10, abilitate 1 cooldown 5, abilitate 2 cooldown 2
+Vulpix atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 8, abilitate 2 cooldown 2
+	Vulpix: HP 8 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Vulpix nimic Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 8, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Vulpix: HP 4, abilitate 1 cooldown 3
+Vulpix atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 7, abilitate 1 cooldown 2
+	Vulpix: HP 4, abilitate 1 cooldown 2
+Vulpix abilitate 2 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 5, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Vulpix: HP 4 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 7
+Vulpix atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 4, abilitate 2 cooldown 1
+	Vulpix: HP 4, abilitate 2 cooldown 6
+Vulpix atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 3, abilitate 1 cooldown 3
+	Vulpix: HP 0, abilitate 2 cooldown 5
+Antrenorul 1 (Squirtle) castiga Arena, invingand pe celalalt jucator.
+Squirtle are acum +1 la toate caracteristicile.
+Atribute Squirtle: HP 61, Special Attack 4, Defense 8, Special Defence 11
+
+Psyduck atac normal Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 29, abilitate 2 cooldown 4
+	Psyduck: HP 42 si este stuned
+Psyduck nimic Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 29, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+	Psyduck: HP 38 si este stuned
+Psyduck nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 29, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+	Psyduck: HP 32
+Psyduck abilitate 2 Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 27 si este stuned, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+	Psyduck: HP 26, abilitate 2 cooldown 5
+Psyduck atac normal Jigglypuff nimic -> Rezultat:
+	Jigglypuff: HP 22, abilitate 1 cooldown 1
+	Psyduck: HP 26, abilitate 2 cooldown 4
+Psyduck atac normal Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 17
+	Psyduck: HP 20, abilitate 2 cooldown 3
+Psyduck abilitate 1 Jigglypuff abilitate 1 -> Rezultat:
+	Jigglypuff: HP 15, abilitate 1 cooldown 4
+	Psyduck: HP 16 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Psyduck nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 15, abilitate 1 cooldown 3
+	Psyduck: HP 10, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Psyduck atac normal Jigglypuff abilitate 2 -> Rezultat:
+	Jigglypuff: HP 10, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+	Psyduck: HP 7 si este stuned, abilitate 1 cooldown 2
+Psyduck nimic Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 10, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Psyduck: HP 1, abilitate 1 cooldown 1
+Psyduck abilitate 2 Jigglypuff atac normal -> Rezultat:
+	Jigglypuff: HP 8 si este stuned, abilitate 2 cooldown 2
+	Psyduck: HP -5, abilitate 2 cooldown 5
+Antrenorul 1 (Jigglypuff) castiga Arena, invingand pe celalalt jucator.
+Jigglypuff are acum +1 la toate caracteristicile.
+Atribute Jigglypuff: HP 35, Attack 11, Defense 4, Special Defence 7
+
+Pikachu atac special Meowth abilitate 1 -> Rezultat:
+	Meowth: HP 43 (dodge), abilitate 1 cooldown 4
+	Pikachu: HP 40
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 43, abilitate 1 cooldown 3
+	Pikachu: HP 39
+Pikachu abilitate 1 Meowth abilitate 2 -> Rezultat:
+	Meowth: HP 43 (dodge), abilitate 1 cooldown 2, abilitate 2 cooldown 3
+	Pikachu: HP 38, abilitate 1 cooldown 4
+Pikachu abilitate 2 Meowth atac normal -> Rezultat:
+	Meowth: HP 39 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Pikachu: HP 38 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 5
+Pikachu atac special Meowth nimic -> Rezultat:
+	Meowth: HP 39, abilitate 2 cooldown 1
+	Pikachu: HP 38, abilitate 1 cooldown 2, abilitate 2 cooldown 4
+Pikachu atac special Meowth abilitate 1 -> Rezultat:
+	Meowth: HP 39 (dodge), abilitate 1 cooldown 4
+	Pikachu: HP 33, abilitate 1 cooldown 1, abilitate 2 cooldown 3
+Pikachu atac special Meowth abilitate 2 -> Rezultat:
+	Meowth: HP 39 (dodge), abilitate 1 cooldown 3, abilitate 2 cooldown 3
+	Pikachu: HP 32, abilitate 2 cooldown 2
+Pikachu abilitate 1 Meowth atac normal -> Rezultat:
+	Meowth: HP 33, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Pikachu: HP 31, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 33, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Pikachu: HP 30, abilitate 1 cooldown 3
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 33
+	Pikachu: HP 29, abilitate 1 cooldown 2
+Pikachu abilitate 2 Meowth abilitate 2 -> Rezultat:
+	Meowth: HP 33 (dodge), abilitate 2 cooldown 3
+	Pikachu: HP 29 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Pikachu atac special Meowth abilitate 1 -> Rezultat:
+	Meowth: HP 33 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 2
+	Pikachu: HP 24, abilitate 2 cooldown 4
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 33, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+	Pikachu: HP 23, abilitate 2 cooldown 3
+Pikachu abilitate 1 Meowth atac normal -> Rezultat:
+	Meowth: HP 27, abilitate 1 cooldown 2
+	Pikachu: HP 22, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Pikachu atac special Meowth abilitate 2 -> Rezultat:
+	Meowth: HP 27 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Pikachu: HP 21, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 27, abilitate 2 cooldown 2
+	Pikachu: HP 20, abilitate 1 cooldown 2
+Pikachu atac special Meowth abilitate 1 -> Rezultat:
+	Meowth: HP 27 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Pikachu: HP 15, abilitate 1 cooldown 1
+Pikachu abilitate 2 Meowth atac normal -> Rezultat:
+	Meowth: HP 23 si este stuned, abilitate 1 cooldown 3
+	Pikachu: HP 15 (dodge), abilitate 2 cooldown 5
+Pikachu atac special Meowth nimic -> Rezultat:
+	Meowth: HP 23, abilitate 1 cooldown 2
+	Pikachu: HP 15, abilitate 2 cooldown 4
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 23, abilitate 1 cooldown 1
+	Pikachu: HP 14, abilitate 2 cooldown 3
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 23
+	Pikachu: HP 13, abilitate 2 cooldown 2
+Pikachu abilitate 1 Meowth abilitate 1 -> Rezultat:
+	Meowth: HP 23 (dodge), abilitate 1 cooldown 4
+	Pikachu: HP 8, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 23, abilitate 1 cooldown 3
+	Pikachu: HP 7, abilitate 1 cooldown 3
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 23, abilitate 1 cooldown 2
+	Pikachu: HP 6, abilitate 1 cooldown 2
+Pikachu abilitate 2 Meowth abilitate 2 -> Rezultat:
+	Meowth: HP 23 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 3
+	Pikachu: HP 6 (dodge), abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 23, abilitate 2 cooldown 2
+	Pikachu: HP 5, abilitate 2 cooldown 4
+Pikachu abilitate 1 Meowth atac normal -> Rezultat:
+	Meowth: HP 17, abilitate 2 cooldown 1
+	Pikachu: HP 4, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 17
+	Pikachu: HP 3, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Pikachu atac special Meowth abilitate 2 -> Rezultat:
+	Meowth: HP 17 (dodge), abilitate 2 cooldown 3
+	Pikachu: HP 2, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Pikachu atac special Meowth atac normal -> Rezultat:
+	Meowth: HP 17, abilitate 2 cooldown 2
+	Pikachu: HP 1, abilitate 1 cooldown 1
+Pikachu abilitate 2 Meowth abilitate 1 -> Rezultat:
+	Meowth: HP 17 (dodge), abilitate 1 cooldown 4, abilitate 2 cooldown 1
+	Pikachu: HP 1 (dodge), abilitate 2 cooldown 5
+Pikachu abilitate 1 Meowth atac normal -> Rezultat:
+	Meowth: HP 11, abilitate 1 cooldown 3
+	Pikachu: HP 0, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Antrenorul 1 (Meowth) castiga Arena, invingand pe celalalt jucator.
+Meowth are acum +1 la toate caracteristicile.
+Atribute Meowth: HP 44, Attack 6, Defense 5, Special Defence 6
+
+Psyduck abilitate 1 Squirtle atac special -> Rezultat:
+	Squirtle: HP 59
+	Psyduck: HP 45, abilitate 1 cooldown 4
+Psyduck atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 59, abilitate 2 cooldown 2
+	Psyduck: HP 43 si este stuned, abilitate 1 cooldown 3
+Psyduck nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 59, abilitate 2 cooldown 1
+	Psyduck: HP 43, abilitate 1 cooldown 2
+Psyduck abilitate 2 Squirtle atac special -> Rezultat:
+	Squirtle: HP 57 si este stuned
+	Psyduck: HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck atac normal Squirtle nimic -> Rezultat:
+	Squirtle: HP 57
+	Psyduck: HP 43, abilitate 2 cooldown 4
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 57
+	Psyduck: HP 43, abilitate 2 cooldown 3
+Psyduck abilitate 1 Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 55, abilitate 1 cooldown 3
+	Psyduck: HP 39, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Psyduck atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 55, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Psyduck: HP 37 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Psyduck nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 55, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Psyduck: HP 37, abilitate 1 cooldown 2
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 55
+	Psyduck: HP 37, abilitate 1 cooldown 1
+Psyduck abilitate 2 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 53 si este stuned, abilitate 2 cooldown 2
+	Psyduck: HP 35 si este stuned, abilitate 2 cooldown 5
+Psyduck nimic Squirtle nimic -> Rezultat:
+	Squirtle: HP 53, abilitate 2 cooldown 1
+	Psyduck: HP 35, abilitate 2 cooldown 4
+Psyduck abilitate 1 Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 51, abilitate 1 cooldown 3
+	Psyduck: HP 31, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Psyduck atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 51, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+	Psyduck: HP 29 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Psyduck nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 51, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+	Psyduck: HP 29, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 51
+	Psyduck: HP 29, abilitate 1 cooldown 1
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 51
+	Psyduck: HP 29
+Psyduck abilitate 2 Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 49 si este stuned, abilitate 1 cooldown 3
+	Psyduck: HP 25, abilitate 2 cooldown 5
+Psyduck abilitate 1 Squirtle nimic -> Rezultat:
+	Squirtle: HP 47, abilitate 1 cooldown 2
+	Psyduck: HP 25, abilitate 1 cooldown 4, abilitate 2 cooldown 4
+Psyduck atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 47, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Psyduck: HP 23 si este stuned, abilitate 1 cooldown 3, abilitate 2 cooldown 3
+Psyduck nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 47, abilitate 2 cooldown 1
+	Psyduck: HP 23, abilitate 1 cooldown 2, abilitate 2 cooldown 2
+Psyduck atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 47, abilitate 1 cooldown 3
+	Psyduck: HP 19, abilitate 1 cooldown 1, abilitate 2 cooldown 1
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 47, abilitate 1 cooldown 2
+	Psyduck: HP 19
+Psyduck abilitate 2 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 45 si este stuned, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Psyduck: HP 17 si este stuned, abilitate 2 cooldown 5
+Psyduck nimic Squirtle nimic -> Rezultat:
+	Squirtle: HP 45, abilitate 2 cooldown 1
+	Psyduck: HP 17, abilitate 2 cooldown 4
+Psyduck atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 45, abilitate 1 cooldown 3
+	Psyduck: HP 13, abilitate 2 cooldown 3
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 45, abilitate 1 cooldown 2
+	Psyduck: HP 13, abilitate 2 cooldown 2
+Psyduck abilitate 1 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 43, abilitate 1 cooldown 1, abilitate 2 cooldown 2
+	Psyduck: HP 11 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 1
+Psyduck nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 43, abilitate 2 cooldown 1
+	Psyduck: HP 11, abilitate 1 cooldown 3
+Psyduck abilitate 2 Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 41 si este stuned, abilitate 1 cooldown 3
+	Psyduck: HP 7, abilitate 1 cooldown 2, abilitate 2 cooldown 5
+Psyduck atac normal Squirtle nimic -> Rezultat:
+	Squirtle: HP 41, abilitate 1 cooldown 2
+	Psyduck: HP 7, abilitate 1 cooldown 1, abilitate 2 cooldown 4
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 41, abilitate 1 cooldown 1
+	Psyduck: HP 7, abilitate 2 cooldown 3
+Psyduck abilitate 1 Squirtle atac special -> Rezultat:
+	Squirtle: HP 39
+	Psyduck: HP 7, abilitate 1 cooldown 4, abilitate 2 cooldown 2
+Psyduck atac normal Squirtle abilitate 1 -> Rezultat:
+	Squirtle: HP 39, abilitate 1 cooldown 3
+	Psyduck: HP 3, abilitate 1 cooldown 3, abilitate 2 cooldown 1
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 39, abilitate 1 cooldown 2
+	Psyduck: HP 3, abilitate 1 cooldown 2
+Psyduck abilitate 2 Squirtle atac special -> Rezultat:
+	Squirtle: HP 37 si este stuned, abilitate 1 cooldown 1
+	Psyduck: HP 3, abilitate 1 cooldown 1, abilitate 2 cooldown 5
+Psyduck atac normal Squirtle nimic -> Rezultat:
+	Squirtle: HP 37
+	Psyduck: HP 3, abilitate 2 cooldown 4
+Psyduck abilitate 1 Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 35, abilitate 2 cooldown 2
+	Psyduck: HP 1 si este stuned, abilitate 1 cooldown 4, abilitate 2 cooldown 3
+Psyduck nimic Squirtle atac special -> Rezultat:
+	Squirtle: HP 35, abilitate 2 cooldown 1
+	Psyduck: HP 1, abilitate 1 cooldown 3, abilitate 2 cooldown 2
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 35
+	Psyduck: HP 1, abilitate 1 cooldown 2, abilitate 2 cooldown 1
+Psyduck atac normal Squirtle atac special -> Rezultat:
+	Squirtle: HP 35
+	Psyduck: HP 1, abilitate 1 cooldown 1
+Psyduck atac normal Squirtle abilitate 2 -> Rezultat:
+	Squirtle: HP 35, abilitate 2 cooldown 2
+	Psyduck: HP -1 si este stuned
+Antrenorul 1 (Squirtle) castiga Arena, invingand pe celalalt jucator.
+Squirtle are acum +1 la toate caracteristicile.
+Atribute Squirtle: HP 62, Special Attack 5, Defense 9, Special Defence 12
+
